@@ -1,0 +1,7 @@
+C:\Users\okan\source\repos\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe.config
+C:\Users\okan\source\repos\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe
+C:\Users\okan\source\repos\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.pdb
+C:\Users\okan\source\repos\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.AssemblyReference.cache
+C:\Users\okan\source\repos\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.CoreCompileInputs.cache
+C:\Users\okan\source\repos\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.exe
+C:\Users\okan\source\repos\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.pdb
